@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(255, 255, 255);
+}
+
+
+#question{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    
+}
+
+#hello{
+    margin-left: 250px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    
+}
+
+div{
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}
+
+h2{
+    margin-top: 3px;
+    margin-bottom: 1px;
+}
+
+.image {
+	position	: relative;
+	width		: 100%; /* for IE 6 */
+}
+
+h2 {
+	position	: absolute;
+	top		: 150px;
+	left		: 0;
+	width		: 100%;
+}
+
+h1{
+    position	: absolute;
+	top		: 400px;
+	left		: 0;
+	width		: 100%;
+}
